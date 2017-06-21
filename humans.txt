@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Willy Jaramillo		wjaram@gmail.com		no-twitter
 
 # THANKS
 
